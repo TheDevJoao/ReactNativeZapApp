@@ -3,12 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCxOb00b7LjuhrHrClWEnx2r-1twugeaFA",
-  authDomain: "zapappdefinitivo.firebaseapp.com",
-  projectId: "zapappdefinitivo",
-  storageBucket: "zapappdefinitivo.appspot.com",
-  messagingSenderId: "899267975215",
-  appId: "1:899267975215:web:ff50bbae76ba112f5b4eda"
+
 };
 
 let app;
